@@ -2,6 +2,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamDoge&show_icons=true&theme=tokyonight)](https://github.com/SteamDoge)
 
+</div>
+
+![wallpaper](image/kami.jpg)
+
+![Visitor Count](https://profile-counter.glitch.me/SteamDoge/count.svg)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=SteamDoge.
+
 <!--
 **SteamDoge/SteamDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
