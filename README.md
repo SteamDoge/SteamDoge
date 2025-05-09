@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamDoge&show_icons=true&theme=tokyonight)](https://github.com/SteamDoge)
+
 <!--
 **SteamDoge/SteamDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
