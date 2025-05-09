@@ -4,7 +4,7 @@
 
 </div>
 
-![wallpaper](image/kami.jpg)
+![wallpaper](image/kami.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/SteamDoge/count.svg)
 
